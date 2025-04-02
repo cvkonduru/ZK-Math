@@ -15,7 +15,7 @@ What is a Zero Knowledge Proof?
 
 ​	A Zero knowledge Proof is a cryptographic method by which one party called the prover can convince another party called the verifier that the statement is true, without revealing any additional information beyond the validity of the statement itself.
 
-![image-20250402131635455](/Users/chay/Library/Application Support/typora-user-images/image-20250402131635455.png)
+![ZK-Overview](assets/ZKOverview)
 
 
 
