@@ -1,2 +1,3 @@
-# ZK-Math
-This repo contains my learning on ZK-Math.
+#                      ZERO KNOWLEDGE MATH
+
+## This repository has all my learnings on the math necessary for Zero Knowledge Proofs.
