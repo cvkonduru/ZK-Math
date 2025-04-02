@@ -33,7 +33,8 @@ There is a lot of math involved that we should learn to understand the Zero Know
 First lets learn Integer arithmetic and then we will explore modular arithmetic.
 
 Integers : We use `Z` as a short descirption for the set of all integers, that is we write integers  
-z = {..., -3,-2,-1,0,1,2,3,...}
+
+![Integers](/Users/chay/projects/ZK-Math/assets/Integers.png)
 Integers are also known as whole numbers, that is numbers that can be written without fractional part.
 
 
