@@ -17,5 +17,7 @@ What is a Zero Knowledge Proof?
 
 ![ZK-Overview](assets/ZKOverview)
 
+Prover : The **Prover** is the party usually an alogiorithm or a program that possess some secret information and that information is called as **Witness** and want to prove the knowledge of this secret or the validity of a statement to another party.
 
+Verifier : The **Verifier** is a party that can be a program, protocol or smart contract that checks the proof send by the prover and decides whether to accept or reject it.
 
