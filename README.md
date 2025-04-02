@@ -34,7 +34,7 @@ First lets learn Integer arithmetic and then we will explore modular arithmetic.
 
 Integers : We use `Z` as a short descirption for the set of all integers, that is we write integers  
 
-![Integers](/Users/chay/projects/ZK-Math/assets/Integers.png)
+![Integers](assets/Integers)
 Integers are also known as whole numbers, that is numbers that can be written without fractional part.
 
 
