@@ -32,10 +32,35 @@ There is a lot of math involved that we should learn to understand the Zero Know
 
 First lets learn Integer arithmetic and then we will explore modular arithmetic.
 
+##### **Integer Arithmetic**
+
 Integers : We use `Z` as a short descirption for the set of all integers, that is we write integers  
 
 ![Integers](assets/Integers)
-Integers are also known as whole numbers, that is numbers that can be written without fractional part.There are many other kinds of numbers which are in the image below.
+Integers are also known as whole numbers, that is numbers that can be written without fractional part.
+
+Absolute Value : If  a belongs to Z is an integer, then we write |a| for absolute value of a, the non-negative value of a without regard to its sign
+
+​			Eg: Absolute Value of 4 is |4| = 4, in the same way Absolute Value of -4 is |-4| = 4.
+
+There are other kinds of numbers that are very useful in ZK-Math and also to understand Modular Arithmetic. They are as below.
+
+Natural Numbers : Natural numbers are represented by `N`. `N` is basically the set of all positive integers, usually called the set of natural nubmbers and N<sub>0</sub> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
